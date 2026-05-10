@@ -17,7 +17,7 @@
           <mxGeometry x="432" y="103" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-4" value="玩家控制器接收数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202" y="202" width="204" height="48" as="geometry" />
+          <mxGeometry x="202" y="190" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-5" value="HUD控件是否有效？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208.5" y="350" width="191" height="191" as="geometry" />
