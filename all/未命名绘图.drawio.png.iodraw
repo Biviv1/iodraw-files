@@ -14,7 +14,7 @@
           <mxGeometry x="232" y="187" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-4" value="是否满足CanFire？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234" y="285" width="183" height="183" as="geometry" />
+          <mxGeometry x="234" y="285" width="183" height="85" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-5" value="不执行开火" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1352" width="140" height="48" as="geometry" />
@@ -144,6 +144,9 @@
               <mxPoint x="258" y="1316" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eQnmgLNkEuJ2upJ308Jc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-4" target="eQnmgLNkEuJ2upJ308Jc-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
