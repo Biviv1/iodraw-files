@@ -109,10 +109,10 @@
           <mxGeometry x="289" y="1290" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-41" value="角色扣减血量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="1542" width="156" height="48" as="geometry" />
+          <mxGeometry x="288.5" y="1360" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-42" value="刷新HUD并播放受击动画" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="249" y="1641" width="235" height="48" as="geometry" />
+          <mxGeometry x="287" y="1430" width="171" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-43" value="血量是否为零？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="1739" width="160" height="160" as="geometry" />
