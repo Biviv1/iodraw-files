@@ -196,11 +196,6 @@
             <mxPoint x="367" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VlsbhpYTJFe1QFo1eMur-66">
-          <mxGeometry x="-0.6185" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-65" value="投射物销毁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="297" y="1210" width="140" height="48" as="geometry" />
         </mxCell>
