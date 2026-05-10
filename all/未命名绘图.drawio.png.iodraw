@@ -298,19 +298,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-110" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="60" y="56" width="14" height="14" as="geometry" />
+          <mxGeometry x="10" y="56" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-111" value="JumpStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="90" y="46" width="90" height="34" as="geometry" />
+          <mxGeometry x="40" y="46" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-112" value="JumpLoop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="280" y="46" width="89" height="34" as="geometry" />
+          <mxGeometry x="230" y="46" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-113" value="JumpStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="480" y="46" width="86" height="34" as="geometry" />
+          <mxGeometry x="430" y="46" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-114" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="670" y="56" width="14" height="14" as="geometry" />
+          <mxGeometry x="620" y="56" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-116" value="" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-111" target="XG8R2s-5k8_ZW7iBXOh3-112">
           <mxGeometry relative="1" as="geometry">
