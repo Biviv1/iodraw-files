@@ -221,7 +221,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-17" value="bIsInAir且Speed大于阈值" style="curved=1;startArrow=none;;exitX=0.19;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-7">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-17" value="bIsInAir且Speed大于阈值" style="curved=0;startArrow=none;;exitX=0.19;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="355" y="1059" />
