@@ -50,9 +50,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-161">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.5" y="1043" as="targetPoint" />
+            <mxPoint x="620" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-34" value="bIsInAir且Speed大于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-33">
@@ -316,6 +316,14 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-158" value="落地动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-149" source="XG8R2s-5k8_ZW7iBXOh3-153" target="XG8R2s-5k8_ZW7iBXOh3-154">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-161" target="XG8R2s-5k8_ZW7iBXOh3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-173" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-172">
+          <mxGeometry x="-0.1725" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-161" value="跑动跳跃 (RunJump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
