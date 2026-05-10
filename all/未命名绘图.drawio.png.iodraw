@@ -20,7 +20,7 @@
           <mxGeometry x="202" y="202" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-5" value="HUD控件是否有效？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="208" y="300" width="191" height="191" as="geometry" />
+          <mxGeometry x="208.5" y="350" width="191" height="191" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-6" value="刷新界面文本和进度条" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="194" y="783" width="220" height="48" as="geometry" />
@@ -45,12 +45,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-0" target="VlsbhpYTJFe1QFo1eMur-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="78" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-13" value="" style="startArrow=none;endArrow=block;exitX=1.01;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-0" target="VlsbhpYTJFe1QFo1eMur-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-1" target="VlsbhpYTJFe1QFo1eMur-4">
           <mxGeometry relative="1" as="geometry">
