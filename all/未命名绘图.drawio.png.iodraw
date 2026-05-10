@@ -113,7 +113,7 @@
             <mxPoint x="406" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-26" value="武器弹药是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-26" value="得分或失败次数是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="190" width="139" height="70" as="geometry" />
         </mxCell>
       </root>
