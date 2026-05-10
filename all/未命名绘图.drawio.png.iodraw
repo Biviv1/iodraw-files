@@ -167,6 +167,9 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-37" value="跳跃与蹲伏处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="348" y="2874" width="172" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-38" target="eHD_8gGt2uJdzwM0dUZR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-38" value="是否拾取输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="453" y="1840" width="160" height="70" as="geometry" />
         </mxCell>
@@ -177,7 +180,7 @@
           <mxGeometry x="570" y="2874" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-41" value="是否瞄准、开火或换弹输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="850" y="2544" width="258" height="258" as="geometry" />
+          <mxGeometry x="403.5" y="1940" width="258" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-42" value="转发战斗组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="2874" width="156" height="48" as="geometry" />
@@ -259,13 +262,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="656" y="2948" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eHD_8gGt2uJdzwM0dUZR-59" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-38" target="eHD_8gGt2uJdzwM0dUZR-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="979" y="2508" />
             </Array>
           </mxGeometry>
         </mxCell>
