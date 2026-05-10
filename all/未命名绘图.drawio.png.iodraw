@@ -156,7 +156,7 @@
           <mxGeometry x="467" y="2973" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-36" value="是否跳跃或蹲伏输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="635" y="2030" width="208" height="208" as="geometry" />
+          <mxGeometry x="428.5" y="1800" width="208" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-37" value="跳跃与蹲伏处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="348" y="2874" width="172" height="48" as="geometry" />
@@ -221,13 +221,6 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-35" target="eHD_8gGt2uJdzwM0dUZR-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eHD_8gGt2uJdzwM0dUZR-52" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-33" target="eHD_8gGt2uJdzwM0dUZR-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="739" y="1994" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-53" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-36" target="eHD_8gGt2uJdzwM0dUZR-37">
