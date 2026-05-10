@@ -17,7 +17,7 @@
           <mxGeometry x="234" y="327" width="183" height="85" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-5" value="不执行开火" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="73.5" y="950" width="140" height="48" as="geometry" />
+          <mxGeometry x="83.5" y="730" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298" y="1030" width="55" height="33" as="geometry" />
