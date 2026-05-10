@@ -292,22 +292,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-137" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1180" width="160" height="340" as="geometry" />
+          <mxGeometry x="830" y="1240" width="160" height="340" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-138" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="81" y="46" width="14" height="14" as="geometry" />
+          <mxGeometry x="58" y="46" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-139" value="JumpStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="43" y="90" width="90" height="34" as="geometry" />
+          <mxGeometry x="20" y="90" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-140" value="JumpLoop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="45" y="170" width="89" height="34" as="geometry" />
+          <mxGeometry x="22" y="170" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-141" value="JumpStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="46.5" y="240" width="86" height="34" as="geometry" />
+          <mxGeometry x="23.5" y="240" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-142" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="82.5" y="310" width="14" height="14" as="geometry" />
+          <mxGeometry x="59.5" y="310" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-143" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-137" source="XG8R2s-5k8_ZW7iBXOh3-138" target="XG8R2s-5k8_ZW7iBXOh3-139">
           <mxGeometry relative="1" as="geometry">
