@@ -45,8 +45,8 @@
             <mxPoint x="268.5" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-42" value="Speed小于或等于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-29">
-          <mxGeometry x="-0.6339" y="3" relative="1" as="geometry">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-171" value="Speed小于或等于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-29">
+          <mxGeometry x="0.0218" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-3" value="WalkRun" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="391" y="933" width="77" height="34" as="geometry" />
+          <mxGeometry x="490" y="921" width="77" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XG8R2s-5k8_ZW7iBXOh3-3">
           <mxGeometry relative="1" as="geometry">
