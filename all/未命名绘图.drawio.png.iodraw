@@ -23,19 +23,19 @@
           <mxGeometry x="298" y="1240" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-7" value="向服务器发送目标点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="223.5" y="456" width="204" height="48" as="geometry" />
+          <mxGeometry x="223.5" y="440" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-8" value="多播开火表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="247.5" y="530" width="156" height="48" as="geometry" />
+          <mxGeometry x="247.5" y="510" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-10" value="调用武器Fire" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="249.5" y="678" width="152" height="48" as="geometry" />
+          <mxGeometry x="249.5" y="585" width="152" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-11" value="播放武器动画并扣弹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="223.5" y="789" width="204" height="48" as="geometry" />
+          <mxGeometry x="223.5" y="670" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-12" value="启动开火间隔计时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="231.5" y="900" width="188" height="48" as="geometry" />
+          <mxGeometry x="231.5" y="750" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-13" value="按键保持且为自动武器？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213.5" y="995" width="224" height="80" as="geometry" />
