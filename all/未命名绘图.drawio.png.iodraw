@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="1828" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="1334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,7 +322,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-118" value="落地动画结束" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0.49;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-113" target="XG8R2s-5k8_ZW7iBXOh3-114">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-118" value="落地动画结束" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-113" target="XG8R2s-5k8_ZW7iBXOh3-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
