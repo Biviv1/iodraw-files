@@ -180,7 +180,7 @@
           <mxGeometry x="570" y="2874" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-41" value="是否瞄准、开火或换弹输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="616.25" y="1940" width="186.5" height="90" as="geometry" />
+          <mxGeometry x="602.63" y="1940" width="213.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-42" value="转发战斗组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="2874" width="156" height="48" as="geometry" />
