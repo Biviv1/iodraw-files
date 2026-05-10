@@ -121,7 +121,7 @@
           <mxGeometry x="339" y="2070" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-46" value="交给GameMode处理淘汰" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="1972" width="235" height="48" as="geometry" />
+          <mxGeometry x="260" y="1770" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-35" target="VlsbhpYTJFe1QFo1eMur-36">
           <mxGeometry relative="1" as="geometry">
@@ -174,11 +174,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-58" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-43" target="VlsbhpYTJFe1QFo1eMur-46">
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-58" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="481" y="1936" />
+              <mxPoint x="400" y="1800" />
             </Array>
+            <mxPoint x="350" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1.01;entryY=0.21;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-46" target="VlsbhpYTJFe1QFo1eMur-45">
