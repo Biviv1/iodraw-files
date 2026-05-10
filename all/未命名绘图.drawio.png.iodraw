@@ -233,13 +233,13 @@
           <mxGeometry x="630" y="1860" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-39" value="发送拾取请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1821" width="172" height="48" as="geometry" />
+          <mxGeometry x="1010" y="1821" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-40" target="eHD_8gGt2uJdzwM0dUZR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-40" value="服务端装备武器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="942" y="1911" width="172" height="48" as="geometry" />
+          <mxGeometry x="1010" y="1911" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-41" target="eHD_8gGt2uJdzwM0dUZR-42">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-42" value="转发战斗组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="942" y="2001" width="172" height="48" as="geometry" />
+          <mxGeometry x="970" y="2001" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-28">
           <mxGeometry relative="1" as="geometry">
