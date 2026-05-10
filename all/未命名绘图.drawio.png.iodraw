@@ -40,6 +40,11 @@
             <mxPoint x="304" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VlsbhpYTJFe1QFo1eMur-15">
+          <mxGeometry x="0.0273" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-4" target="VlsbhpYTJFe1QFo1eMur-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -75,6 +80,11 @@
               <mxPoint x="140" y="125" />
               <mxPoint x="140" y="777" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VlsbhpYTJFe1QFo1eMur-32">
+          <mxGeometry x="-0.2306" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-24" value="玩家数据是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
