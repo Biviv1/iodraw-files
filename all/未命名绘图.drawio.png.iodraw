@@ -102,7 +102,7 @@
         <mxCell id="VlsbhpYTJFe1QFo1eMur-38" value="是否发生碰撞？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="1113" width="160" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-39" value="服务端确认命中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-39" value="服务端确认&#xa;被命中是否为角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="281" y="1310" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-40" value="调用伤害接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -202,7 +202,7 @@
             <mxPoint x="367" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-60" value="被命中是否为角色？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-60" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="287" y="1210" width="160" height="57" as="geometry" />
         </mxCell>
       </root>
