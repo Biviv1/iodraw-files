@@ -23,10 +23,10 @@
           <mxGeometry x="276.5" y="760" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-9" value="缓存待刷新数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="460" width="172" height="48" as="geometry" />
+          <mxGeometry x="450" y="460" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-10" value="等待HUD创建完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="530" width="170" height="48" as="geometry" />
+          <mxGeometry x="450" y="530" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-0" target="VlsbhpYTJFe1QFo1eMur-24">
           <mxGeometry relative="1" as="geometry">
@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VlsbhpYTJFe1QFo1eMur-15">
           <mxGeometry x="0.0273" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-4" target="VlsbhpYTJFe1QFo1eMur-5">
