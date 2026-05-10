@@ -39,16 +39,16 @@
           <mxGeometry x="250" y="1310" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-7" value="战斗逻辑处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="539.5" y="510" width="156" height="48" as="geometry" />
+          <mxGeometry x="539.5" y="450" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-8" value="服务器校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="600" width="140" height="48" as="geometry" />
+          <mxGeometry x="548" y="530" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-9" value="同步武器与弹药" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="531.5" y="720" width="172" height="48" as="geometry" />
+          <mxGeometry x="532" y="610" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-10" value="伤害与生命结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="532" y="840" width="172" height="48" as="geometry" />
+          <mxGeometry x="532" y="690" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-11" target="eHD_8gGt2uJdzwM0dUZR-13">
           <mxGeometry relative="1" as="geometry" />
