@@ -23,7 +23,7 @@
           <mxGeometry x="264" y="1450" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-7" value="向服务器发送目标点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224" y="541" width="204" height="48" as="geometry" />
+          <mxGeometry x="223.5" y="410" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-8" value="多播开火表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="248" y="639" width="156" height="48" as="geometry" />
