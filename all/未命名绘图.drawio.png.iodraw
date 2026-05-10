@@ -100,7 +100,7 @@
           <mxGeometry x="297" y="992" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-38" value="是否发生碰撞？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="1113" width="160" height="160" as="geometry" />
+          <mxGeometry x="287" y="1113" width="160" height="57" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-39" value="服务端确认命中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="281" y="1345" width="172" height="48" as="geometry" />
