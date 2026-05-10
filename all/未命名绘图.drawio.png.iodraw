@@ -114,6 +114,9 @@
         <mxCell id="VlsbhpYTJFe1QFo1eMur-43" value="血量是否为零？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="1600" width="160" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-44" target="VlsbhpYTJFe1QFo1eMur-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-44" value="继续比赛" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1770" width="124" height="48" as="geometry" />
         </mxCell>
@@ -179,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-60" value="服务端确认&#xa;被命中是否为角色？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="1210" width="160" height="57" as="geometry" />
+          <mxGeometry x="287" y="1300" width="160" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
