@@ -8,10 +8,10 @@
           <mxGeometry x="590" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-2" value="玩家输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="556" y="-7.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="556" y="83" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-3" value="角色状态判断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-7.5" width="156" height="48" as="geometry" />
+          <mxGeometry x="540" y="182" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-4" target="eHD_8gGt2uJdzwM0dUZR-7">
           <mxGeometry relative="1" as="geometry" />
@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-4" value="是否可执行" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="554" y="-47.5" width="128" height="128" as="geometry" />
+          <mxGeometry x="554" y="280" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-5" value="结束响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="870" y="320" width="124" height="48" as="geometry" />
@@ -39,16 +39,16 @@
           <mxGeometry x="250" y="1310" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-7" value="战斗逻辑处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="539.5" y="-7.5" width="156" height="48" as="geometry" />
+          <mxGeometry x="540" y="450" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-8" value="服务器校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="548" y="-7.5" width="140" height="48" as="geometry" />
+          <mxGeometry x="548" y="530" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-9" value="同步武器与弹药" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="532" y="-7.5" width="172" height="48" as="geometry" />
+          <mxGeometry x="532" y="610" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-10" value="伤害与生命结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="532" y="-7.5" width="172" height="48" as="geometry" />
+          <mxGeometry x="532" y="690" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-11" target="eHD_8gGt2uJdzwM0dUZR-12">
           <mxGeometry relative="1" as="geometry" />
@@ -67,16 +67,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-11" value="是否淘汰" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="562" y="-39.5" width="112" height="112" as="geometry" />
+          <mxGeometry x="562" y="770" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-12" target="eHD_8gGt2uJdzwM0dUZR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-12" value="计分与重生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="-7.5" width="140" height="48" as="geometry" />
+          <mxGeometry x="548" y="930" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-13" value="更新界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="556" y="-7.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="556" y="1060" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-1" target="eHD_8gGt2uJdzwM0dUZR-2">
           <mxGeometry relative="1" as="geometry">
