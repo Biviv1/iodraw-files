@@ -26,10 +26,7 @@
           <mxGeometry x="223.5" y="410" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-8" value="多播开火表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="248" y="639" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="eQnmgLNkEuJ2upJ308Jc-9" value="播放角色开火动画" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="1143" width="188" height="48" as="geometry" />
+          <mxGeometry x="247.5" y="500" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-10" value="调用武器Fire" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="737" width="152" height="48" as="geometry" />
@@ -85,11 +82,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQnmgLNkEuJ2upJ308Jc-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-8" target="eQnmgLNkEuJ2upJ308Jc-9">
+        <mxCell id="eQnmgLNkEuJ2upJ308Jc-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="258" y="712" />
             </Array>
+            <mxPoint x="258" y="1143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-8" target="eQnmgLNkEuJ2upJ308Jc-10">
@@ -138,11 +136,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQnmgLNkEuJ2upJ308Jc-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-9" target="eQnmgLNkEuJ2upJ308Jc-14">
+        <mxCell id="eQnmgLNkEuJ2upJ308Jc-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eQnmgLNkEuJ2upJ308Jc-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="258" y="1316" />
             </Array>
+            <mxPoint x="258" y="1191" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-4" target="eQnmgLNkEuJ2upJ308Jc-4">
