@@ -23,7 +23,7 @@
           <mxGeometry x="276.5" y="760" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-9" value="缓存待刷新数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="448" y="441" width="172" height="48" as="geometry" />
+          <mxGeometry x="450" y="460" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-10" value="等待HUD创建完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="530" width="170" height="48" as="geometry" />
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-28" target="VlsbhpYTJFe1QFo1eMur-4">
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-26" target="VlsbhpYTJFe1QFo1eMur-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -85,9 +85,6 @@
         <mxCell id="VlsbhpYTJFe1QFo1eMur-24" value="武器弹药是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="234.5" y="90" width="139" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VlsbhpYTJFe1QFo1eMur-26" value="得分或失败次数是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="190" width="139" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-24" target="VlsbhpYTJFe1QFo1eMur-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -96,7 +93,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-28" value="角色血量是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="234.5" y="190" width="139" height="70" as="geometry" />
+          <mxGeometry x="234.5" y="180" width="139" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-28" target="VlsbhpYTJFe1QFo1eMur-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="304" y="260" as="sourcePoint" />
+            <mxPoint x="304" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlsbhpYTJFe1QFo1eMur-26" value="得分或失败次数是否变化？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="234.5" y="260" width="139" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
