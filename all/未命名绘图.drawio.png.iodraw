@@ -152,11 +152,14 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-33" target="eHD_8gGt2uJdzwM0dUZR-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-33" target="eHD_8gGt2uJdzwM0dUZR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-33" value="是否移动或视角输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="622.25" y="1620" width="174.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="209" y="1650" width="172" height="48" as="geometry" />
+          <mxGeometry x="310" y="1641" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-35" value="更新角色表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="2973" width="156" height="48" as="geometry" />
