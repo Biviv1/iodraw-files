@@ -129,16 +129,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-28" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="505" y="1350" width="55" height="33" as="geometry" />
+          <mxGeometry x="682" y="1350" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-29" value="玩家输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1433" width="101" height="33" as="geometry" />
+          <mxGeometry x="659" y="1433" width="101" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-30" target="eHD_8gGt2uJdzwM0dUZR-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-30" value="是否禁用玩法？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1517" width="160" height="73" as="geometry" />
+          <mxGeometry x="630" y="1517" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-31" value="忽略输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="2973" width="124" height="48" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-33" value="是否移动或视角输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="1620" width="208" height="90" as="geometry" />
+          <mxGeometry x="605.5" y="1620" width="208" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="2874" width="172" height="48" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-36" value="是否跳跃或蹲伏输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1740" width="208" height="70" as="geometry" />
+          <mxGeometry x="606" y="1740" width="208" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-37" value="跳跃与蹲伏处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="348" y="2874" width="172" height="48" as="geometry" />
@@ -171,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-38" value="是否拾取输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="453" y="1840" width="160" height="70" as="geometry" />
+          <mxGeometry x="630" y="1840" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-39" value="发送拾取请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="578" y="2649" width="156" height="48" as="geometry" />
@@ -180,7 +180,7 @@
           <mxGeometry x="570" y="2874" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-41" value="是否瞄准、开火或换弹输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="439.25" y="1940" width="186.5" height="90" as="geometry" />
+          <mxGeometry x="616.25" y="1940" width="186.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-42" value="转发战斗组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="814" y="2874" width="156" height="48" as="geometry" />
@@ -191,7 +191,7 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="533" y="1430" as="targetPoint" />
+            <mxPoint x="710" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-29" target="eHD_8gGt2uJdzwM0dUZR-30">
