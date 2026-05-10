@@ -32,7 +32,7 @@
           <mxGeometry x="258" y="640" width="152" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-11" value="播放武器动画并扣弹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="352" y="858" width="204" height="48" as="geometry" />
+          <mxGeometry x="232" y="740" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-12" value="启动开火间隔计时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="957" width="188" height="48" as="geometry" />
@@ -82,7 +82,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQnmgLNkEuJ2upJ308Jc-23" value="" style="startArrow=none;endArrow=block;exitX=0.9;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-8" target="eQnmgLNkEuJ2upJ308Jc-10">
+        <mxCell id="eQnmgLNkEuJ2upJ308Jc-23" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-8" target="eQnmgLNkEuJ2upJ308Jc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-10" target="eQnmgLNkEuJ2upJ308Jc-11">
