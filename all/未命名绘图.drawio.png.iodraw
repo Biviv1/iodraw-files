@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-174" value="bIsInAir且&lt;div&gt;Speed小于或等于&lt;/div&gt;&lt;div&gt;阈值&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-43">
           <mxGeometry x="-0.2229" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-2" value="Idle" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -325,7 +325,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-161" value="跑动跳跃 (RunJump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="810" y="850" width="130" height="320" as="geometry" />
+          <mxGeometry x="630" y="850" width="130" height="320" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-162" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-161">
           <mxGeometry x="58.5" y="41" width="14" height="14" as="geometry" />
