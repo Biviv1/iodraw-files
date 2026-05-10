@@ -134,6 +134,9 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-29" value="玩家输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="482" y="1433" width="101" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-30" target="eHD_8gGt2uJdzwM0dUZR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-30" value="是否禁用玩法？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="453" y="1517" width="160" height="73" as="geometry" />
         </mxCell>
@@ -144,7 +147,7 @@
           <mxGeometry x="517" y="3071" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-33" value="是否移动或视角输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="429" y="1710" width="208" height="90" as="geometry" />
+          <mxGeometry x="428.5" y="1640" width="208" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="2874" width="172" height="48" as="geometry" />
@@ -198,13 +201,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="82" y="3046" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eHD_8gGt2uJdzwM0dUZR-48" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-30" target="eHD_8gGt2uJdzwM0dUZR-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="628" y="1713" />
             </Array>
           </mxGeometry>
         </mxCell>
