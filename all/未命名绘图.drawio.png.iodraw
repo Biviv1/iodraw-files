@@ -152,7 +152,7 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-60" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-55">
           <mxGeometry x="81" y="530" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-61" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-55" source="XG8R2s-5k8_ZW7iBXOh3-56" target="XG8R2s-5k8_ZW7iBXOh3-57">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-61" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.96;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-55" source="XG8R2s-5k8_ZW7iBXOh3-56" target="XG8R2s-5k8_ZW7iBXOh3-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -289,44 +289,6 @@
               <mxPoint x="723" y="2128" />
               <mxPoint x="723" y="1463" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-89" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="464" y="1518" width="160" height="575" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-90" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
-          <mxGeometry x="81" y="46" width="14" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-91" value="JumpStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
-          <mxGeometry x="43" y="135" width="90" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-92" value="JumpLoop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
-          <mxGeometry x="43" y="266" width="89" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-93" value="JumpStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
-          <mxGeometry x="45" y="398" width="86" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-94" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
-          <mxGeometry x="81" y="530" width="14" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-95" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-90" target="XG8R2s-5k8_ZW7iBXOh3-91">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-96" value="起跳动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-91" target="XG8R2s-5k8_ZW7iBXOh3-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-97" value="bIsInAir == false" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-92" target="XG8R2s-5k8_ZW7iBXOh3-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-98" value="落地动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-93" target="XG8R2s-5k8_ZW7iBXOh3-94">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
