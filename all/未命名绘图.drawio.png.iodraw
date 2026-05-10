@@ -94,25 +94,25 @@
           <mxGeometry x="339" y="810" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-36" value="武器发射投射物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="893" width="172" height="48" as="geometry" />
+          <mxGeometry x="280.5" y="893" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-37" value="投射物飞行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="297" y="992" width="140" height="48" as="geometry" />
+          <mxGeometry x="296.5" y="992" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-38" value="是否发生碰撞？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="1113" width="160" height="57" as="geometry" />
+          <mxGeometry x="286.5" y="1113" width="160" height="57" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-40" value="调用伤害接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="1390" width="156" height="48" as="geometry" />
+          <mxGeometry x="288.5" y="1390" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-41" value="角色扣减血量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="1460" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-42" value="刷新HUD并播放受击动画" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="1530" width="171" height="48" as="geometry" />
+          <mxGeometry x="281" y="1530" width="171" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-43" value="血量是否为零？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="1600" width="160" height="61" as="geometry" />
+          <mxGeometry x="286.5" y="1600" width="160" height="61" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-44" target="VlsbhpYTJFe1QFo1eMur-45">
           <mxGeometry relative="1" as="geometry" />
@@ -121,13 +121,13 @@
           <mxGeometry x="510" y="1606.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-45" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="331.5" y="1785" width="55" height="33" as="geometry" />
+          <mxGeometry x="339" y="1785" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-46" target="VlsbhpYTJFe1QFo1eMur-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-46" value="交给GameMode处理淘汰" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="285" y="1700" width="170" height="48" as="geometry" />
+          <mxGeometry x="281.5" y="1700" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-35" target="VlsbhpYTJFe1QFo1eMur-36">
           <mxGeometry relative="1" as="geometry">
@@ -187,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-60" value="服务端确认&#xa;被命中是否为角色？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="287" y="1300" width="160" height="57" as="geometry" />
+          <mxGeometry x="286.5" y="1300" width="160" height="57" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-38" target="VlsbhpYTJFe1QFo1eMur-65">
           <mxGeometry relative="1" as="geometry">
@@ -202,7 +202,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-65" value="投射物销毁" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="297" y="1210" width="140" height="48" as="geometry" />
+          <mxGeometry x="296.5" y="1210" width="140" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
