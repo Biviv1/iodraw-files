@@ -154,10 +154,10 @@
           <mxGeometry x="630" y="1517" width="160" height="73" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-31" value="忽略输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="2250" width="124" height="48" as="geometry" />
+          <mxGeometry x="341" y="2100" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-32" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="2380" width="55" height="33" as="geometry" />
+          <mxGeometry x="682.5" y="2115" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-33" target="eHD_8gGt2uJdzwM0dUZR-36">
           <mxGeometry relative="1" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="942" y="1641" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-35" value="更新角色表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="942" y="2140" width="156" height="48" as="geometry" />
+          <mxGeometry x="942" y="2140" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-36" target="eHD_8gGt2uJdzwM0dUZR-38">
           <mxGeometry relative="1" as="geometry" />
