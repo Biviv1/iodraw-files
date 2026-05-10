@@ -150,6 +150,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-3" value="WalkRun" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="391" y="988" width="77" height="34" as="geometry" />
         </mxCell>
@@ -163,7 +166,7 @@
           <mxGeometry x="92" y="1208" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-7" value="JumpRunStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="297" y="1098" width="116" height="34" as="geometry" />
+          <mxGeometry x="360" y="1098" width="116" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-8" target="XG8R2s-5k8_ZW7iBXOh3-9">
           <mxGeometry relative="1" as="geometry">
@@ -218,13 +221,6 @@
             <Array as="points">
               <mxPoint x="195" y="1171" />
               <mxPoint x="195" y="943" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-17" value="bIsInAir且Speed大于阈值" style="curved=0;startArrow=none;;exitX=0.19;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="355" y="1059" />
             </Array>
           </mxGeometry>
         </mxCell>
