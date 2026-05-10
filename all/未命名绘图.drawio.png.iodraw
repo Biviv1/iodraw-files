@@ -45,6 +45,11 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-11" target="eHD_8gGt2uJdzwM0dUZR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-119" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eHD_8gGt2uJdzwM0dUZR-118">
+          <mxGeometry x="0.1028" y="-4" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-11" value="是否淘汰" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="562" y="930" width="112" height="112" as="geometry" />
         </mxCell>
