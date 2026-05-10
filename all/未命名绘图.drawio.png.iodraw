@@ -41,7 +41,7 @@
           <mxGeometry x="247.5" y="980" width="224" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-14" value="等待下一次输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309" y="1352" width="172" height="48" as="geometry" />
+          <mxGeometry x="275" y="1130" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-1" target="eQnmgLNkEuJ2upJ308Jc-2">
           <mxGeometry relative="1" as="geometry">
@@ -110,12 +110,8 @@
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-28" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-13" target="eQnmgLNkEuJ2upJ308Jc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eQnmgLNkEuJ2upJ308Jc-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-14" target="eQnmgLNkEuJ2upJ308Jc-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="395" y="1425" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="eQnmgLNkEuJ2upJ308Jc-29" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.17;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-14" target="eQnmgLNkEuJ2upJ308Jc-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-4" target="eQnmgLNkEuJ2upJ308Jc-4">
           <mxGeometry relative="1" as="geometry" />
