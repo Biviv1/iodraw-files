@@ -63,7 +63,7 @@
             <mxPoint x="930" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-26" value="落地后Speed大于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-25">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-26" value="bIsInAir为否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-25">
           <mxGeometry x="-0.5076" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
