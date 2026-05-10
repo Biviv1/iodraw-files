@@ -103,13 +103,13 @@
           <mxGeometry x="286.5" y="1113" width="160" height="57" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-40" value="调用伤害接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="288.5" y="1390" width="156" height="48" as="geometry" />
+          <mxGeometry x="288.5" y="1380" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-41" value="角色扣减血量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="288.5" y="1460" width="156" height="48" as="geometry" />
+          <mxGeometry x="288.5" y="1450" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-42" value="刷新HUD并播放受击动画" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="1530" width="171" height="48" as="geometry" />
+          <mxGeometry x="281" y="1520" width="171" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-43" value="血量是否为零？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="286.5" y="1600" width="160" height="61" as="geometry" />
@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-60" value="服务端确认&#xa;被命中是否为角色？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="286.5" y="1300" width="160" height="57" as="geometry" />
+          <mxGeometry x="286.5" y="1280" width="160" height="57" as="geometry" />
         </mxCell>
         <mxCell id="VlsbhpYTJFe1QFo1eMur-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VlsbhpYTJFe1QFo1eMur-38" target="VlsbhpYTJFe1QFo1eMur-65">
           <mxGeometry relative="1" as="geometry">
