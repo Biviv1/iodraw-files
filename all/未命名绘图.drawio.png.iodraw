@@ -39,10 +39,13 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-2" value="Idle" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="291" y="864" width="43" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-3" target="XG8R2s-5k8_ZW7iBXOh3-2">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="364" y="1122" as="sourcePoint" />
-            <mxPoint x="268.5" y="1070" as="targetPoint" />
+            <mxPoint x="570" y="1110" as="sourcePoint" />
+            <mxPoint x="390" y="1080" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="323" y="927" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-171" value="Speed小于或等于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-29">
