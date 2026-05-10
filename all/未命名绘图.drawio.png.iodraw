@@ -123,6 +123,14 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-1" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="306" y="800" width="14" height="14" as="geometry" />
         </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-2" target="XG8R2s-5k8_ZW7iBXOh3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-23" value="落地后Speed小于或等于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-22">
+          <mxGeometry x="-0.0037" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-2" value="Idle" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="291" y="864" width="43" height="34" as="geometry" />
         </mxCell>
@@ -203,13 +211,6 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-18" value="起跳动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-7" target="XG8R2s-5k8_ZW7iBXOh3-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-19" value="bIsInAir为否" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.07;entryY=0.01;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-8" target="XG8R2s-5k8_ZW7iBXOh3-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="355" y="1278" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-20" value="落地后Speed大于阈值" style="curved=1;startArrow=none;;exitX=0.5;exitY=0.01;entryX=0.82;entryY=1.02;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-9" target="XG8R2s-5k8_ZW7iBXOh3-3">
