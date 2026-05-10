@@ -144,7 +144,7 @@
           <mxGeometry x="517" y="3071" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-33" value="是否移动或视角输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="524" y="1750" width="208" height="208" as="geometry" />
+          <mxGeometry x="429" y="1710" width="208" height="208" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126" y="2874" width="172" height="48" as="geometry" />
