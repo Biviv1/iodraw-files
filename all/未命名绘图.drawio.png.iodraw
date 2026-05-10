@@ -295,7 +295,7 @@
           <mxGeometry x="830" y="1240" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-138" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
-          <mxGeometry x="58" y="46" width="14" height="14" as="geometry" />
+          <mxGeometry x="58.5" y="60" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-139" value="JumpStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-137">
           <mxGeometry x="20" y="90" width="90" height="34" as="geometry" />
