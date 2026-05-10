@@ -272,12 +272,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-149" target="XG8R2s-5k8_ZW7iBXOh3-2">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-149" target="XG8R2s-5k8_ZW7iBXOh3-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="1010" as="sourcePoint" />
             <mxPoint x="220" y="930" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="302" y="1070" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-149" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
