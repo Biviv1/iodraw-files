@@ -145,7 +145,7 @@
           <mxGeometry x="298" y="1208" width="115" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-9" value="JumpRunStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="449" y="1314" width="112" height="34" as="geometry" />
+          <mxGeometry x="770" y="864" width="112" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-10" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-1" target="XG8R2s-5k8_ZW7iBXOh3-2">
           <mxGeometry relative="1" as="geometry">
