@@ -32,10 +32,10 @@
           <mxGeometry x="249.5" y="585" width="152" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-11" value="播放武器动画并扣弹" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="223.5" y="670" width="204" height="48" as="geometry" />
+          <mxGeometry x="241.75" y="670" width="167.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-12" value="启动开火间隔计时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="231.5" y="750" width="188" height="48" as="geometry" />
+          <mxGeometry x="260" y="750" width="159.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-13" value="按键保持且为自动武器？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="213.5" y="995" width="224" height="80" as="geometry" />
