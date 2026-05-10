@@ -7,7 +7,7 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-1" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="306" y="800" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="XG8R2s-5k8_ZW7iBXOh3-2">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.012;exitY=0.04;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-161" target="XG8R2s-5k8_ZW7iBXOh3-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="334" y="820" as="sourcePoint" />
             <mxPoint x="710" y="840" as="targetPoint" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-3" value="WalkRun" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="550" y="910" width="77" height="34" as="geometry" />
+          <mxGeometry x="440" y="910" width="77" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-10" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-1" target="XG8R2s-5k8_ZW7iBXOh3-2">
           <mxGeometry relative="1" as="geometry">
