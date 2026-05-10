@@ -126,16 +126,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-52" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1190" width="14" height="14" as="geometry" />
+          <mxGeometry x="477" y="1320" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-53" value="Idle" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="373" y="1254" width="43" height="34" as="geometry" />
+          <mxGeometry x="463" y="1384" width="43" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-54" value="WalkRun" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="144" y="1649" width="77" height="34" as="geometry" />
+          <mxGeometry x="234" y="1779" width="77" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-55" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1378" width="160" height="575" as="geometry" />
+          <mxGeometry x="454" y="1508" width="160" height="575" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-56" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-55">
           <mxGeometry x="81" y="46" width="14" height="14" as="geometry" />
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-65" value="跑动跳跃 (JumpRun)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="187" y="2043" width="349" height="848" as="geometry" />
+          <mxGeometry x="277" y="2173" width="349" height="848" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-66" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-65">
           <mxGeometry x="172" y="83" width="14" height="14" as="geometry" />
@@ -244,51 +244,89 @@
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-82" value="Speed &gt; 阈值" style="curved=1;startArrow=none;;exitX=-0.01;exitY=0.65;entryX=0.46;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-53" target="XG8R2s-5k8_ZW7iBXOh3-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="118" y="1333" />
+              <mxPoint x="208" y="1463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-83" value="Speed ≤ 阈值" style="curved=1;startArrow=none;;exitX=0.54;exitY=-0.01;entryX=-0.01;entryY=0.77;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-54" target="XG8R2s-5k8_ZW7iBXOh3-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="1333" />
+              <mxPoint x="337" y="1463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-84" value="bIsInAir &amp;&amp; Speed ≤ 阈值" style="curved=1;startArrow=none;;exitX=0.49;exitY=1.01;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-53" target="XG8R2s-5k8_ZW7iBXOh3-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="394" y="1333" />
+              <mxPoint x="484" y="1463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-85" value="bIsInAir &amp;&amp; Speed &gt; 阈值" style="curved=1;startArrow=none;;exitX=0.44;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-54" target="XG8R2s-5k8_ZW7iBXOh3-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="1998" />
+              <mxPoint x="180" y="2128" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-86" value="" style="curved=1;startArrow=none;;exitX=0.96;exitY=0;entryX=0.99;entryY=0.8;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-55" target="XG8R2s-5k8_ZW7iBXOh3-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="528" y="1333" />
+              <mxPoint x="618" y="1463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-87" value="落地后 Speed &gt; 阈值" style="curved=1;startArrow=none;;exitX=0.5;exitY=0;entryX=0.62;entryY=1;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-65" target="XG8R2s-5k8_ZW7iBXOh3-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="362" y="1998" />
+              <mxPoint x="452" y="2128" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-88" value="落地后 Speed ≤ 阈值" style="curved=1;startArrow=none;;exitX=1;exitY=0.14;entryX=0.99;entryY=0.67;rounded=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-65" target="XG8R2s-5k8_ZW7iBXOh3-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="633" y="1998" />
-              <mxPoint x="633" y="1333" />
+              <mxPoint x="723" y="2128" />
+              <mxPoint x="723" y="1463" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-89" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1518" width="160" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-90" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
+          <mxGeometry x="81" y="46" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-91" value="JumpStart" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
+          <mxGeometry x="43" y="135" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-92" value="JumpLoop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
+          <mxGeometry x="43" y="266" width="89" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-93" value="JumpStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
+          <mxGeometry x="45" y="398" width="86" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-94" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-89">
+          <mxGeometry x="81" y="530" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-95" value="" style="curved=1;startArrow=none;;exitX=0.49;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-90" target="XG8R2s-5k8_ZW7iBXOh3-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-96" value="起跳动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-91" target="XG8R2s-5k8_ZW7iBXOh3-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-97" value="bIsInAir == false" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-92" target="XG8R2s-5k8_ZW7iBXOh3-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-98" value="落地动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-89" source="XG8R2s-5k8_ZW7iBXOh3-93" target="XG8R2s-5k8_ZW7iBXOh3-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
