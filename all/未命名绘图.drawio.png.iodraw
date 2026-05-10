@@ -307,10 +307,10 @@
           <mxGeometry x="386" y="46" width="89" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-113" value="JumpStop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="580" y="180" width="86" height="34" as="geometry" />
+          <mxGeometry x="590" y="46" width="86" height="34" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-114" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-109">
-          <mxGeometry x="81" y="530" width="14" height="14" as="geometry" />
+          <mxGeometry x="690" y="180" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-116" value="起跳动画结束" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-111" target="XG8R2s-5k8_ZW7iBXOh3-112">
           <mxGeometry relative="1" as="geometry">
@@ -322,7 +322,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-118" value="落地动画结束" style="curved=1;startArrow=none;;exitX=0.5;exitY=1.01;entryX=0.49;entryY=-0.01;rounded=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-113" target="XG8R2s-5k8_ZW7iBXOh3-114">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-118" value="落地动画结束" style="curved=1;startArrow=none;;exitX=1;exitY=0.5;entryX=0.49;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="XG8R2s-5k8_ZW7iBXOh3-109" source="XG8R2s-5k8_ZW7iBXOh3-113" target="XG8R2s-5k8_ZW7iBXOh3-114">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
