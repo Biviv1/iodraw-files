@@ -17,10 +17,10 @@
           <mxGeometry x="234" y="327" width="183" height="85" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-5" value="不执行开火" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="1130" width="140" height="48" as="geometry" />
+          <mxGeometry x="73.5" y="950" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-6" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="298" y="1240" width="55" height="33" as="geometry" />
+          <mxGeometry x="298" y="1030" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-7" value="向服务器发送目标点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="223.5" y="440" width="204" height="48" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="241.75" y="670" width="167.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-12" value="启动开火间隔计时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="750" width="159.5" height="48" as="geometry" />
+          <mxGeometry x="245.75" y="750" width="159.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-13" value="按键保持且为自动武器？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="213.5" y="995" width="224" height="80" as="geometry" />
+          <mxGeometry x="213.5" y="830" width="224" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-14" value="等待下一次输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="239.5" y="1122" width="172" height="48" as="geometry" />
+          <mxGeometry x="239.5" y="950" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eQnmgLNkEuJ2upJ308Jc-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eQnmgLNkEuJ2upJ308Jc-1" target="eQnmgLNkEuJ2upJ308Jc-2">
           <mxGeometry relative="1" as="geometry">
