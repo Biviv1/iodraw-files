@@ -31,7 +31,7 @@
             <mxPoint x="135" y="933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-174" value="bIsInAir且Speed小于或等于阈值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-43">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-174" value="bIsInAir且&lt;div&gt;Speed小于或等于&lt;/div&gt;&lt;div&gt;阈值&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XG8R2s-5k8_ZW7iBXOh3-43">
           <mxGeometry x="-0.2229" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -272,14 +272,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-149" target="XG8R2s-5k8_ZW7iBXOh3-2">
+        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-159" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-149" target="XG8R2s-5k8_ZW7iBXOh3-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="1010" as="sourcePoint" />
             <mxPoint x="220" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-149" value="原地跳跃 (Jump)" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="767" width="130" height="320" as="geometry" />
+          <mxGeometry x="40" y="790" width="130" height="320" as="geometry" />
         </mxCell>
         <mxCell id="XG8R2s-5k8_ZW7iBXOh3-150" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="XG8R2s-5k8_ZW7iBXOh3-149">
           <mxGeometry x="58.5" y="41" width="14" height="14" as="geometry" />
