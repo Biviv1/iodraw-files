@@ -179,7 +179,7 @@
           <mxGeometry x="622.25" y="1620" width="174.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="177" y="1641" width="172" height="48" as="geometry" />
+          <mxGeometry x="223" y="1641" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-35" value="更新角色表现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640.75" y="2410" width="156" height="48" as="geometry" />
