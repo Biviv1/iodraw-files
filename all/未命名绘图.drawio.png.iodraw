@@ -266,7 +266,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-42" value="转发战斗组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2001" width="172" height="48" as="geometry" />
+          <mxGeometry x="910" y="2001" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;rounded=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-28">
           <mxGeometry relative="1" as="geometry">
