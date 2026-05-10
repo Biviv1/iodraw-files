@@ -219,14 +219,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG8R2s-5k8_ZW7iBXOh3-21" value="落地后Speed小于或等于阈值" style="curved=0;startArrow=none;;exitX=0.83;exitY=0.01;entryX=1.01;entryY=0.63;rounded=1;" edge="1" parent="1" source="XG8R2s-5k8_ZW7iBXOh3-9" target="XG8R2s-5k8_ZW7iBXOh3-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="1278" />
-              <mxPoint x="620" y="943" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
