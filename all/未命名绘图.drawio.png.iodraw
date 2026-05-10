@@ -181,6 +181,11 @@
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-33" value="是否移动或视角输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="622.75" y="1635" width="174.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-34" target="eHD_8gGt2uJdzwM0dUZR-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-34" value="移动与视角控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1641" width="172" height="48" as="geometry" />
         </mxCell>
@@ -203,6 +208,9 @@
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-36" value="是否跳跃或蹲伏输入？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="628" y="1740" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eHD_8gGt2uJdzwM0dUZR-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eHD_8gGt2uJdzwM0dUZR-37" target="eHD_8gGt2uJdzwM0dUZR-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eHD_8gGt2uJdzwM0dUZR-37" value="跳跃与蹲伏处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1751" width="172" height="48" as="geometry" />
